@@ -1,4 +1,4 @@
-# 📉 Samuel Serra 
+# 📉 Samuel Serra <br/>
 **`Analista de Dados`**
 👋
 Me chamo Samuel Serra, tenho 25 anos e sou do Rio de Janeiro. Sou Operador de monitoramento e, atualmente, estou me aprofundando em Análise de Dados por conta própria, me preparando para ingressar na faculdade de Análise e Desenvolvimento de Sistemas. Tenho experiência prática com SQL, Power BI e Excel, além de utilizar Git e GitHub para organizar meus estudos e projetos.<br/><br/>
